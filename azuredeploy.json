@@ -5,7 +5,7 @@
     "_generator": {
       "name": "bicep",
       "version": "0.4.1.14562",
-      "templateHash": "16101568190641134313"
+      "templateHash": "18331490931842143622"
     }
   },
   "parameters": {
@@ -42,7 +42,7 @@
     },
     "artifactsLocation": {
       "type": "string",
-      "defaultValue": "",
+      "defaultValue": "https://raw.githubusercontent.com/SMBrook/AZLab1/main",
       "metadata": {
         "description": "The location of resources, such as templates and DSC modules, that the template depends on"
       }
